@@ -1,6 +1,7 @@
+import ua.edu.ucu.apps.lab4.Character;
+import ua.edu.ucu.apps.lab4.Knight;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class KnightTest {

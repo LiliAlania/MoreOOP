@@ -1,6 +1,8 @@
+import ua.edu.ucu.apps.lab4.Character;
+import ua.edu.ucu.apps.lab4.Elf;
+import ua.edu.ucu.apps.lab4.Hobbit;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ElfTest {
